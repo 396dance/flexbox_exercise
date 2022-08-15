@@ -1,0 +1,35 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #ff00ff;
+  width: 100%;
+  padding: 20px 30px;
+}
+
+
+
+.footer {
+  background-color: #87cefa;
+  width: 100%;
+  padding: 20px;
+}
+
+
+.pink-left {
+  height: 70px;
+  margin:0 10px;
+  flex-basis: 140px;
+  background-color: pink;
+}
+
+.pink-right {
+  height: 70px;
+  margin:0 10px;
+  flex-basis: 140px;
+  background-color: pink;
+}
